@@ -1,1 +1,1 @@
-# Solo-simple-dewvops-project
+# Solo-simple-devops-project
